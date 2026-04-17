@@ -1,8 +1,8 @@
-> [home](/next)
+> [home](/computing)
 
-![banner](/next-gp/photos/banner.png)
+![banner](/adept/photos/banner.png)
 
-## The Next General Purpose Language
+## A Minimal General Purpose Language
 
 > Perfection is achieved, not when there is nothing more to add,
 > but when there is nothing left to take away.  

@@ -1,4 +1,4 @@
-> [next](/next)
+> [home](/next)
 
 ![banner](/next-gp/photos/banner.png)
 
